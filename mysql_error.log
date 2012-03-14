@@ -347,3 +347,193 @@ InnoDB: buffer...
 120308 19:33:47 [Note] Event Scheduler: Loaded 0 events
 120308 19:33:47 [Note] D:\xampp\mysql\bin\mysqld.exe: ready for connections.
 Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120309  2:11:00 [Note] D:\xampp\mysql\bin\mysqld.exe: Normal shutdown
+
+120309  2:11:00 [Note] Event Scheduler: Purging the queue. 0 events
+120309  2:11:00  InnoDB: Starting shutdown...
+120309  2:11:02  InnoDB: Shutdown completed; log sequence number 2271446
+120309  2:11:03 [Note] D:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+120311 12:05:27 [Note] Plugin 'FEDERATED' is disabled.
+120311 12:05:28 InnoDB: The InnoDB memory heap is disabled
+120311 12:05:28 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+120311 12:05:28 InnoDB: Compressed tables use zlib 1.2.3
+120311 12:05:29 InnoDB: Initializing buffer pool, size = 16.0M
+120311 12:05:29 InnoDB: Completed initialization of buffer pool
+120311 12:05:29 InnoDB: highest supported file format is Barracuda.
+120311 12:05:37  InnoDB: Waiting for the background threads to start
+120311 12:05:38 InnoDB: 1.1.8 started; log sequence number 2271446
+120311 12:05:41 [Note] Event Scheduler: Loaded 0 events
+120311 12:05:41 [Note] D:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120311 12:36:59 [Note] D:\xampp\mysql\bin\mysqld.exe: Normal shutdown
+
+120311 12:36:59 [Note] Event Scheduler: Purging the queue. 0 events
+120311 12:36:59  InnoDB: Starting shutdown...
+120311 12:37:00  InnoDB: Shutdown completed; log sequence number 2271446
+120311 12:37:00 [Note] D:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+120311 15:49:38 [Note] Plugin 'FEDERATED' is disabled.
+120311 15:49:38 InnoDB: The InnoDB memory heap is disabled
+120311 15:49:38 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+120311 15:49:38 InnoDB: Compressed tables use zlib 1.2.3
+120311 15:49:38 InnoDB: Initializing buffer pool, size = 16.0M
+120311 15:49:38 InnoDB: Completed initialization of buffer pool
+120311 15:49:38 InnoDB: highest supported file format is Barracuda.
+120311 15:49:43  InnoDB: Waiting for the background threads to start
+120311 15:49:44 InnoDB: 1.1.8 started; log sequence number 2271446
+120311 15:49:45 [Note] Event Scheduler: Loaded 0 events
+120311 15:49:45 [Note] D:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120312  1:50:08 [Note] D:\xampp\mysql\bin\mysqld.exe: Normal shutdown
+
+120312  1:50:09 [Note] Event Scheduler: Purging the queue. 0 events
+120312  1:50:09  InnoDB: Starting shutdown...
+120312  1:50:10  InnoDB: Shutdown completed; log sequence number 2271446
+120312  1:50:10 [Note] D:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+120312 16:17:52 [Note] Plugin 'FEDERATED' is disabled.
+120312 16:17:52 InnoDB: The InnoDB memory heap is disabled
+120312 16:17:52 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+120312 16:17:52 InnoDB: Compressed tables use zlib 1.2.3
+120312 16:17:52 InnoDB: Initializing buffer pool, size = 16.0M
+120312 16:17:52 InnoDB: Completed initialization of buffer pool
+120312 16:17:52 InnoDB: highest supported file format is Barracuda.
+120312 16:17:53  InnoDB: Waiting for the background threads to start
+120312 16:17:54 InnoDB: 1.1.8 started; log sequence number 2271446
+120312 16:17:56 [Note] Event Scheduler: Loaded 0 events
+120312 16:17:56 [Note] D:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120313  3:39:43 [Note] D:\xampp\mysql\bin\mysqld.exe: Normal shutdown
+
+120313  3:39:43 [Note] Event Scheduler: Purging the queue. 0 events
+120313  3:39:43  InnoDB: Starting shutdown...
+120313  3:39:45  InnoDB: Shutdown completed; log sequence number 2271446
+120313  3:39:45 [Note] D:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+120313 13:25:58 [Note] Plugin 'FEDERATED' is disabled.
+120313 13:25:59 InnoDB: The InnoDB memory heap is disabled
+120313 13:25:59 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+120313 13:25:59 InnoDB: Compressed tables use zlib 1.2.3
+120313 13:25:59 InnoDB: Initializing buffer pool, size = 16.0M
+120313 13:25:59 InnoDB: Completed initialization of buffer pool
+120313 13:26:02 InnoDB: highest supported file format is Barracuda.
+120313 13:26:10  InnoDB: Waiting for the background threads to start
+120313 13:26:11 InnoDB: 1.1.8 started; log sequence number 2271446
+120313 13:26:13 [Note] Event Scheduler: Loaded 0 events
+120313 13:26:13 [Note] D:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120313 16:23:29 [Note] D:\xampp\mysql\bin\mysqld.exe: Normal shutdown
+
+120313 16:23:29 [Note] Event Scheduler: Purging the queue. 0 events
+120313 16:23:29  InnoDB: Starting shutdown...
+120313 16:23:30  InnoDB: Shutdown completed; log sequence number 2271456
+120313 16:23:30 [Note] D:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+120313 17:07:05 [Note] Plugin 'FEDERATED' is disabled.
+120313 17:07:06 InnoDB: The InnoDB memory heap is disabled
+120313 17:07:06 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+120313 17:07:06 InnoDB: Compressed tables use zlib 1.2.3
+120313 17:07:06 InnoDB: Initializing buffer pool, size = 16.0M
+120313 17:07:06 InnoDB: Completed initialization of buffer pool
+120313 17:07:08 InnoDB: highest supported file format is Barracuda.
+120313 17:07:12  InnoDB: Waiting for the background threads to start
+120313 17:07:13 InnoDB: 1.1.8 started; log sequence number 2271456
+120313 17:07:20 [Note] Event Scheduler: Loaded 0 events
+120313 17:07:20 [Note] D:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120313 18:36:54 [Note] D:\xampp\mysql\bin\mysqld.exe: Normal shutdown
+
+120313 18:36:54 [Note] Event Scheduler: Purging the queue. 0 events
+120313 18:36:54  InnoDB: Starting shutdown...
+120313 18:36:55  InnoDB: Shutdown completed; log sequence number 2271466
+120313 18:36:55 [Note] D:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+120313 21:42:25 [Note] Plugin 'FEDERATED' is disabled.
+120313 21:42:26 InnoDB: The InnoDB memory heap is disabled
+120313 21:42:26 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+120313 21:42:26 InnoDB: Compressed tables use zlib 1.2.3
+120313 21:42:26 InnoDB: Initializing buffer pool, size = 16.0M
+120313 21:42:26 InnoDB: Completed initialization of buffer pool
+120313 21:42:29 InnoDB: highest supported file format is Barracuda.
+120313 21:42:37  InnoDB: Waiting for the background threads to start
+120313 21:42:38 InnoDB: 1.1.8 started; log sequence number 2271466
+120313 21:42:41 [Note] Event Scheduler: Loaded 0 events
+120313 21:42:41 [Note] D:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120314  3:26:38 [Note] D:\xampp\mysql\bin\mysqld.exe: Normal shutdown
+
+120314  3:26:38 [Note] Event Scheduler: Purging the queue. 0 events
+120314  3:26:39  InnoDB: Starting shutdown...
+120314  3:26:40  InnoDB: Shutdown completed; log sequence number 2271476
+120314  3:26:40 [Note] D:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+120314  9:56:24 [Note] Plugin 'FEDERATED' is disabled.
+120314  9:56:24 InnoDB: The InnoDB memory heap is disabled
+120314  9:56:24 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+120314  9:56:24 InnoDB: Compressed tables use zlib 1.2.3
+120314  9:56:24 InnoDB: Initializing buffer pool, size = 16.0M
+120314  9:56:24 InnoDB: Completed initialization of buffer pool
+120314  9:56:24 InnoDB: highest supported file format is Barracuda.
+120314  9:56:25  InnoDB: Waiting for the background threads to start
+120314  9:56:26 InnoDB: 1.1.8 started; log sequence number 2271476
+120314  9:56:29 [Note] Event Scheduler: Loaded 0 events
+120314  9:56:29 [Note] D:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120314 10:34:24 [Note] D:\xampp\mysql\bin\mysqld.exe: Normal shutdown
+
+120314 10:34:24 [Note] Event Scheduler: Purging the queue. 0 events
+120314 10:34:24  InnoDB: Starting shutdown...
+120314 10:34:25  InnoDB: Shutdown completed; log sequence number 2271486
+120314 10:34:25 [Note] D:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+120314 13:50:52 [Note] Plugin 'FEDERATED' is disabled.
+120314 13:50:53 InnoDB: The InnoDB memory heap is disabled
+120314 13:50:53 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+120314 13:50:53 InnoDB: Compressed tables use zlib 1.2.3
+120314 13:50:53 InnoDB: Initializing buffer pool, size = 16.0M
+120314 13:50:53 InnoDB: Completed initialization of buffer pool
+120314 13:50:54 InnoDB: highest supported file format is Barracuda.
+120314 13:50:54  InnoDB: Waiting for the background threads to start
+120314 13:50:55 InnoDB: 1.1.8 started; log sequence number 2271486
+120314 13:50:59 [Note] Event Scheduler: Loaded 0 events
+120314 13:50:59 [Note] D:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120314 16:32:35 [Note] D:\xampp\mysql\bin\mysqld.exe: Normal shutdown
+
+120314 16:32:35 [Note] Event Scheduler: Purging the queue. 0 events
+120314 16:32:35  InnoDB: Starting shutdown...
+120314 16:32:37  InnoDB: Shutdown completed; log sequence number 2280933
+120314 16:32:37 [Note] D:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+120314 17:15:08 [Note] Plugin 'FEDERATED' is disabled.
+120314 17:15:11 InnoDB: The InnoDB memory heap is disabled
+120314 17:15:11 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+120314 17:15:11 InnoDB: Compressed tables use zlib 1.2.3
+120314 17:15:11 InnoDB: Initializing buffer pool, size = 16.0M
+120314 17:15:11 InnoDB: Completed initialization of buffer pool
+120314 17:15:14 InnoDB: highest supported file format is Barracuda.
+120314 17:15:20  InnoDB: Waiting for the background threads to start
+120314 17:15:21 InnoDB: 1.1.8 started; log sequence number 2280933
+120314 17:15:24 [Note] Event Scheduler: Loaded 0 events
+120314 17:15:24 [Note] D:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120314 18:07:08 [Note] D:\xampp\mysql\bin\mysqld.exe: Normal shutdown
+
+120314 18:07:08 [Note] Event Scheduler: Purging the queue. 0 events
+120314 18:07:08  InnoDB: Starting shutdown...
+120314 18:07:09  InnoDB: Shutdown completed; log sequence number 2282272
+120314 18:07:09 [Note] D:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+120314 22:13:30 [Note] Plugin 'FEDERATED' is disabled.
+120314 22:13:30 InnoDB: The InnoDB memory heap is disabled
+120314 22:13:30 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+120314 22:13:30 InnoDB: Compressed tables use zlib 1.2.3
+120314 22:13:30 InnoDB: Initializing buffer pool, size = 16.0M
+120314 22:13:30 InnoDB: Completed initialization of buffer pool
+120314 22:13:30 InnoDB: highest supported file format is Barracuda.
+120314 22:13:31  InnoDB: Waiting for the background threads to start
+120314 22:13:32 InnoDB: 1.1.8 started; log sequence number 2282272
+120314 22:13:36 [Note] Event Scheduler: Loaded 0 events
+120314 22:13:36 [Note] D:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
